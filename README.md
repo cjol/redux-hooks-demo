@@ -5,4 +5,4 @@ traditional redux increment counter - but with hooks! The demo assumes
 basic familiarity with React hooks, and simply introduces the basic new hooks
 from `react-redux` version 7.1.
 
-All new functionality is contained in the definition of our [App component](./src/App/index.js).
+All new functionality is documented in the definition of our [App component](./src/App/index.js).
